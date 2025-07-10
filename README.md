@@ -2,7 +2,7 @@
 
 *Where Culinary Art Meets Digital Craftsmanship*
 
-<!-- ![Sushi Website Screenshot](https://via.placeholder.com/800x450.png?text=Sushi+Website+Homepage) -->
+
 ![Sushi Website Demo](./assets/sushi.gif)
 
 
@@ -24,7 +24,7 @@ Using modern HTML, CSS, and a sprinkle of JavaScript magic, I've built a respons
 
 ## 🚀 Live Demo
 
-Check out the live version of the website here: **[https://your-live-demo-link.com](https://your-live-demo-link.com)**
+Check out the live version of the website here: **[https://sushiman-liard.vercel.app/](https://sushiman-liard.vercel.app/)**
 
 
 ## 🛠️ Tech Stack
@@ -42,12 +42,12 @@ Want to run the project locally or play around with the code? Follow these simpl
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/sushi-website.git
+    git clone https://github.com/wakassodev/sushiman.git
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd sushi-website
+    cd sushi
     ```
 
 3.  **Install dependencies:**

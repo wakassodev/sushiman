@@ -33,6 +33,10 @@
   color: #fff;
 }
 
+.trending__discover:hover {
+  background-color: var(--primary-color);
+}
+
 .trending-sushi,
 .trending-drinks {
   width: 100%;
@@ -104,11 +108,11 @@
 }
 
 .trending-sushi .trending__image {
-  background-image: url("../../assets/japanese_sushi.png");
+  background-image: url("../../assets/japanese_sushi-1.png");
 }
 
 .trending-drinks .trending__image {
-  background-image: url("../../assets/japanese_drinks.png");
+  background-image: url("../../assets/japanese_drinks-1.png");
 }
 
 .trending__image img {

@@ -42,7 +42,7 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  gap: 20px;
+  gap: 32px;
 
   list-style: none;
 }
@@ -55,6 +55,11 @@
   font-family: var(--plus-jakarta-sans);
   color: var(--secondary-color);
   cursor: pointer;
+}
+
+.header__menu li:hover {
+  color: var(--primary-color);
+  font-weight: 600;
 }
 
 .header__menu li img {

@@ -31,11 +31,11 @@
 .about-us__image-sushi3 {
   border-bottom: 8px solid var(--color-creamson);
 
-  background-image: url("../../assets/about_bg1.png");
+  background-image: url("../../assets/about_bg1-1.png");
 }
 
 .about-us__image-sushi2 {
-  background-image: url("../../assets/about_bg2.png");
+  background-image: url("../../assets/about_bg2-1.png");
 }
 
 .about-us__image-sushi3 img {
@@ -72,6 +72,10 @@
 .about-us__button img {
   object-fit: contain;
   margin-left: 32px;
+}
+
+.about-us__button:hover {
+  background: var(--primary-color);
 }
 
 .about-us__content {

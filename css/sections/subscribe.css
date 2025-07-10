@@ -2,7 +2,7 @@
   padding: 64px;
 
   background-color: var(--primary-color);
-  background-image: url('../../assets/subscribe_bg.png');
+  background-image: url('../../assets/subscribe_bg-1.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -85,4 +85,8 @@
   outline: none;
   
   cursor: pointer;
+}
+
+.subscription__form button:hover {
+  background: #dc6300;
 }

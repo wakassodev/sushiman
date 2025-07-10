@@ -97,6 +97,10 @@
   line-height: 23px;
 }
 
+.hero-content__order-button:hover {
+  background: var(--primary-color);
+}
+
 
 .hero-content__play-button {
   border: none;
@@ -121,6 +125,13 @@
   width: 46px;
   height: 46px;
   object-fit: contain;
+}
+
+.hero-content__play-button:hover {
+  color: var(--primary-color);
+}
+.hero-content__play-button:hover img {
+  filter: brightness(0) saturate(100%) invert(50%);
 }
 
 .hero-content__testimonial {
